@@ -101,5 +101,3 @@ flutter:
 dependency_overrides:
   win32: ^5.5.4
 
-dependency_overrides:
-  win32: ^5.5.4
